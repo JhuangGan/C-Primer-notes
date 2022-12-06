@@ -1,2 +1,2 @@
-# C-Primer-notes
-C++Primer 第五版中文版的学习笔记和代码练习收录
+# C-Primer-notes 5th edition
+Date: 2022/09/15 - ...
